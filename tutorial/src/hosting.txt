@@ -1,0 +1,2 @@
+npm run build 
+drag and drop build folder on netlifly
